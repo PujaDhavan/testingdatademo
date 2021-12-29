@@ -1,0 +1,4 @@
+com\mt\app\tests\MarqueryTourTest.class
+com\mt\app\pages\RegistrationPage.class
+com\mt\app\pages\loginPage.class
+com\mt\app\utility\Config.class
