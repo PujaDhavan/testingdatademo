@@ -44,6 +44,7 @@ public class MarqueryTourTest {
 		log.info("Execution Before Suite -Opening Browser");
 		driver = Config.getDriver();
 		System.out.println("hi");
+		System.out.println("hi");
 	}
 	
 
